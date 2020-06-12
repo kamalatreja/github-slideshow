@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our New slide!"
 ---
-Your text
+GIThub slide teacher
 Use the left arrow to go back!
